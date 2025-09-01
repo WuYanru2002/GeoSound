@@ -87,26 +87,21 @@ The performance of the POI-Only classification is shown below:
 
 ### 2. Zero-Shot Audio Classification
 
-Below are the results of the zero-shot audio classification, with 3 models evaluated on the dataset. The results are divided into three separate images for clarity:
+Below are the results of the zero-shot audio classification, with 3 models evaluated on the dataset. The results are divided into two rows for clarity:
 
-#### The ROC Curve of PANNs:
-![Zero-Shot Image 1](Figure/PANNs_Result_1.png)
+#### The ROC and P-R Curves of PANNs, AST, and CLAP:
 
-#### The ROC Curve of AST:
-![Zero-Shot Image 2](Figure/AST_Result_1.png)
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="Figure/PANNs_Result_1.png" width="30%" alt="Zero-Shot Image 1">
+  <img src="Figure/AST_Result_1.png" width="30%" alt="Zero-Shot Image 2">
+  <img src="Figure/Clap_Result_1.png" width="30%" alt="Zero-Shot Image 3">
+</div>
 
-#### The ROC Curve of CLAP:
-![Zero-Shot Image 3](Figure/Clap_Result_1.png)
-
-#### The P-R Curve of PANNs:
-![Zero-Shot Image 4](Figure/PANNs_Result_2.png)
-
-#### The P-R Curve of AST:
-![Zero-Shot Image 5](Figure/AST_Result_2.png)
-
-#### The P-R Curve of CLAP:
-![Zero-Shot Image 6](Figure/Clap_Result_2.png)
-
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="Figure/PANNs_Result_2.png" width="30%" alt="Zero-Shot Image 4">
+  <img src="Figure/AST_Result_2.png" width="30%" alt="Zero-Shot Image 5">
+  <img src="Figure/Clap_Result_2.png" width="30%" alt="Zero-Shot Image 6">
+</div>
 ---
 
 ### 3. Fine-Tuned Classification Results
