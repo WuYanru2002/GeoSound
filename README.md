@@ -102,6 +102,7 @@ Below are the results of the zero-shot audio classification, with 3 models evalu
   <img src="Figure/AST_Result_2.png" width="30%" alt="Zero-Shot Image 5">
   <img src="Figure/Clap_Result_2.png" width="30%" alt="Zero-Shot Image 6">
 </div>
+
 ---
 
 ### 3. Fine-Tuned Classification Results
