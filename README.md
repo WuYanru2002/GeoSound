@@ -1,5 +1,7 @@
 # GeoSound
 
+**Note**: This repository is a demo showcasing the analysis results. The full dataset will be updated here once the paper is accepted.
+
 GeoSound is a dataset designed to enhance audio tagging performance by introducing contextual information through Point-of-Interest (POI) labels. It provides a unique connection between audio events and their geographical context, offering a novel approach to address the limitations of existing audio-only datasets.
 
 ---
